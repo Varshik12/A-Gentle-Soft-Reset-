@@ -225,11 +225,7 @@ export const RomanticSurprisePage: React.FC<RomanticSurprisePageProps> = ({ init
                 Tu hamesha kitni sorted, chill orr genuine rehti hai na... orr 21st ko faltu mei &apos;time &amp; efforts ki respect&apos; bolkar tumhe itna irritate orr uncomfortable feel krwaya. Tumhari bhi apni life hai, busy schedule, work ka load ya apna mood ho sakta hai, orr tum deserve krti ho ki log bina kisi entitlement ke tumhari space orr time ki respect kare.
               </p>
 
-              <div className="p-3.5 bg-[#4f102c]/65 rounded-xl border border-rose-500/30 text-rose-100 text-xs sm:text-[13px] leading-relaxed shadow-inner italic font-serif space-y-1.5">
-                <p>
-                  &quot;Jab kisi ko bina baat guilt-trip kiya jaye, toh kisi bhi self-respecting ladki ki tarah tumhara upset hona orr 10 din silence maintain krna 100% sahi tha. Tune bina kisi drama ke jo graceful boundary banayi, usse ye orr clear ho gya ki tum kitni mature orr clear-headed ho.&quot;
-                </p>
-              </div>
+              
 
               <p className="text-rose-200/90 leading-relaxed text-xs sm:text-sm">
                 Tumhari hasi, tumhari energy orr tumhara bina filter chill rehna bohot rare hai. Tumhe kabhi bhi kisi ki overthinking ya immature harkat ki wajah se awkward ya pressured feel nhi hona chahiye.
