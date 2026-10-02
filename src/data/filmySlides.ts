@@ -76,7 +76,7 @@ Batao, maaf krna hai ya remand pe bhejna hai? 😜☕`,
     filmyDialogue: `"Hum dono ke beech jo connection orr chill vibe hai, wo bohot special hai. Kabhi-kabhi feelings aur frustration mix ho jate hai, par mai humare pyaare se bond par kabhi koi bojh nhi dalna chahta. I'm truly sorry for the way I reacted.
 
 Jab maine apni feelings express ki thi, tab bhi dil se yahi tha — tumhara comfort, space orr wo cute si hasi mere liye sabse pehle aati hai. Mai bas wahi khubsurat, bina kisi condition waala bond aur pyaari vibes wapas chahta hoon, jahan hum dono bina kisi overthinking ke khush reh sake. 🌸✨" 🌸🤝`,
-    romanceShayari: `Na koi haq jatana hai, na koi shart lagana hai,
+    romanceShayari: `koi haq nhi jatana hai, 
 Tumhari azaadi orr khushi hi sabse pehla thikana hai.
 Dosti wahi khoobsurat hai jahan dil par koi bojh na ho,
 Bina kisi umeed ke, sirf tumhari muskaan zaroori hai! 🌸✨`,
